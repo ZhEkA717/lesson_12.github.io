@@ -1,0 +1,487 @@
+/* ______zad_1__________________ */
+#news{
+    border: 1px solid black;
+    width: 700px;
+    padding: 10px 30px;
+    margin:10px auto;
+    text-align: justify;
+}
+#news h2 a:link,#news h2 a:visited{
+color: blue;
+text-decoration: none;
+}
+#news h2 a:hover{
+color: blue;
+text-decoration: underline;
+}
+.pdr{
+    text-align: right;
+}
+#news .pdr a:link,#news .pdr a:visited{
+    color: blue;
+    text-decoration: none;
+    }
+#news .pdr a:hover{
+    color: blue;
+    text-decoration: underline;
+    }
+
+#aboutcompany{
+    border: 1px solid black;
+    width: 700px;
+    padding: 10px 30px;
+    margin:20px auto;
+    text-align: justify;
+}
+#aboutcompany h2 a:link,#aboutcompany h2 a:visited{
+color: blue;
+text-decoration: none;
+}
+#aboutcompany h2 a:hover{
+color: blue;
+text-decoration: underline;
+}
+.pdr{
+    text-align: right;
+}
+#aboutcompany .pdr a:link,#aboutcompany .pdr a:visited{
+    color: blue;
+    text-decoration: none;
+    }
+#aboutcompany .pdr a:hover{
+    color: blue;
+    text-decoration: underline;
+    }
+    #interesting{
+        border: 1px solid black;
+        width: 700px;
+        padding: 10px 30px;
+        margin:10px auto;
+        text-align: justify;
+    }
+    #interesting h2 a:link,#interesting h2 a:visited{
+    color: blue;
+    text-decoration: none;
+    }
+    #interesting h2 a:hover{
+    color: blue;
+    text-decoration: underline;
+    }
+    .pdr{
+        text-align: right;
+    }
+    #interesting .pdr a:link,#interesting .pdr a:visited{
+        color: blue;
+        text-decoration: none;
+        }
+    #interesting .pdr a:hover{
+        color: blue;
+        text-decoration: underline;
+        }
+/* ______zad_2__________________ */
+#news1{
+    border: 1px solid black;
+    width:700px;
+    margin:10px auto;
+    padding: 10px 30px;
+    text-align: justify;
+}
+#news1 img{
+    float: left;
+    display: block;
+    border: 1px solid black;
+    margin: 0px 10px 10px 0px;
+}
+#news1 .pdr a:link,#news1 .pdr a:visited{
+    color: blue;
+    text-decoration: none;
+    }
+#news1 .pdr a:hover{
+    color: blue;
+    text-decoration: underline;
+    }
+
+
+#aboutcompany1{
+    border: 1px solid black;
+    width:700px;
+    margin:10px auto;
+    padding: 10px 30px;
+    text-align: justify;
+}
+#aboutcompany1 img{
+    float: left;
+    display: block;
+    border: 1px solid black;
+    margin: 0px 10px 10px 0px;
+}
+#aboutcompany1 .pdr a:link,#aboutcompany1 .pdr a:visited{
+    color: blue;
+    text-decoration: none;
+    }
+#aboutcompany1 .pdr a:hover{
+    color: blue;
+    text-decoration: underline;
+    }
+
+    #interesting1{
+        border: 1px solid black;
+        width:700px;
+        margin:10px auto;
+        padding: 10px 30px;
+        text-align: justify;
+    }
+    #interesting1 img{
+        float: left;
+        display: block;
+        border: 1px solid black;
+        margin: 0px 10px 10px 0px;
+    }
+    #interesting1 .pdr a:link,#interesting1 .pdr a:visited{
+        color: blue;
+        text-decoration: none;
+        }
+    #interesting1 .pdr a:hover{
+        color: blue;
+        text-decoration: underline;
+        }
+/* ______zad_3__________________ */
+#zad3{
+    border: 1px solid black;
+    padding:10px;
+    margin: 10px auto;
+    width: 600px;
+}
+#zad3 h1{
+    text-align: center;
+}
+#zad3 h2{
+    text-align: center;
+}
+#zad3 p{
+    text-indent: 50px;
+    text-align: justify;
+    font-size: small;
+    font-family: monospace ;
+}
+#zad3  a:link.green,#zad3 a:visited.green{
+text-decoration: none;
+color: green;
+}
+#zad3  a:hover.green{
+    text-decoration: underline;
+    color: red;
+}
+#zad3 a:link.pink,#zad3 a:visited.pink { 
+text-decoration: none;
+color:rgb(248, 104, 128);
+}
+#zad3 a:hover.pink { 
+    text-decoration: underline;
+    color:black 
+    }
+#zad3 .podr a:link, #zad3 .podr a:visited{
+    color:rgb(248, 104, 128);
+    text-decoration: none;
+    
+}
+#zad3 p.podr{
+    text-align: right;
+}
+
+#zad3 .podr a:hover{
+    color:white;
+    text-decoration: none;
+    border:1px solid rgb(248, 104, 128);
+    background-color:rgb(248, 104, 128);
+    border-radius: 5px;
+    padding: 5px;
+}
+/* ______zad_4__________________ */
+#zad4{
+    width: 700px;
+    margin:50px auto;
+    padding: 0px;
+    text-align: justify;
+}
+#border{
+    border: 1px solid rgb(116, 86, 86);
+}
+#menu{
+    background-color: grey;
+    height: 30px;
+    margin-bottom:20px ;
+}
+#menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#menu li{
+    float: left;
+    margin-right: 10px;
+
+}
+#zad4 p{
+    padding: 0px 10px;
+}
+#zad4 h1{
+    text-align: center;
+}
+#menu a:link,#menu a:visited{
+    text-decoration: none;
+    color:white;
+    display: block;
+    padding: 0px 5px;
+    line-height: 30px;
+}
+#menu a:hover{
+    text-decoration: none;
+    color:black;
+    display: block;
+    background-color: white;
+    padding: 0px 5px;
+    line-height: 30px;
+}
+a:link.blue,a:visited.blue{
+    color: blue;
+    text-decoration: none;
+}
+a:hover.blue{
+    color: green;
+    text-decoration: underline;
+}
+/* ______zad_5__________________ */
+#zad5{
+width: 700px;
+margin: 50px auto;
+padding: 0px;
+text-align: justify;
+}
+#zad5 #border{
+    border: 1px solid black;
+
+}
+#menu1{
+    background-color: grey;
+    height: 30px;
+    margin-bottom:20px ;
+
+}
+#menu1 ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 30px;
+}
+#menu1 li{
+    float: left;
+    margin-right: 10px;
+}
+#zad5 p{
+padding:0px 10px;
+}
+#zad5 h2{
+    text-align: center;
+}
+#zad5 #vne{
+text-align: center;
+font-size: smaller;
+}
+
+#menu1 a:link, #menu1 a:visited{
+    color:white;
+    text-decoration: none;
+    display: block;
+    line-height: 30px;
+    padding: 0px 5px;
+}
+#menu1 #glav a:link,#menu1 #glav a:visited{
+    color: black;
+    text-decoration: none;
+    display: block;
+    line-height: 30px;
+    padding: 0px 5px;
+    background-color: white;  
+}
+#menu1 a:hover{
+    color: black;
+    text-decoration: none;
+    display: block;
+    line-height: 30px;
+    padding: 0px 5px;
+    background-color: white;
+}
+#zad5 a:link.black,#zad5 a:visited.black{
+    color: black;
+    font-weight: bold;
+}
+#zad5 a:hover.black{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* ______zad_6__________________ */
+#zad6{
+    margin-top: 80px;
+    text-align: right;
+    padding: 5px 20px;
+    border: 1px dashed green;
+    border-radius: 20px;
+    width: 600px;
+    margin: 30px auto;
+    color: green;
+    font-size: smaller;
+}
+#zad6 h1,#zad6 h2{
+    text-align: center;
+}
+#zad6 a:link.h2bl,#zad6 a:visited.h2bl{
+    color:green;
+}
+#zad6 a:hover.h2bl{
+    color:black;
+    text-decoration: none;
+}
+#zad6 a:link.pgr,#zad6 a:visited.pgr{
+    color:green;
+    font-weight: bold;
+}
+#zad6 a:hover.pgr{
+    text-decoration: none;
+    font-weight: bold;
+}
+/* ______zad_7__________________ */
+#zad7{
+    border: 2px solid red;
+    border-radius: 40px;
+padding: 30px;
+width: 800px;
+margin: 20px auto;
+}
+#zad7 p{
+    text-align: justify;
+}
+#zad7 h1,#zad7 h2{
+    color: brown;
+}
+#zad7 .red{
+    color:red;
+}
+#zad7 .green{
+    color:green;
+}
+#zad7 .right{
+    color:black;
+    font-style: italic;
+    font-size: small;
+    padding-right: 80px;
+    text-align: right;
+}
+#zad7 a:link,#zad7 a:visited{
+    font-weight: bold;
+}
+#zad7 a:hover{
+    font-weight: bold;
+    text-decoration: none;
+    color: green;
+}
+#line{
+    border-bottom: 1px solid black;
+    width: 1000px;
+    margin: 0px auto;
+}
+/* ______zad_8__________________ */
+#zad8{
+    width: 900px;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: justify;
+    font-weight: bolder ;
+    font-family: arial;
+}
+#zad8 #border{
+    border: 1px solid orange;
+}
+#m1{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+#m2{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#zad8 #m1 li{
+    display: inline-block;
+    padding-right: 0px;
+}
+#zad8 #m2 li{
+    display: inline;
+    padding: 10px;
+}
+#menu2{
+    background-color: orange;
+    height: 50px;
+
+}
+#menu3{
+    text-align: center;
+   
+}
+#zad8 h1,#zad8 h2{
+    text-align: center;
+    color: rgb(196, 142, 44);
+}
+#zad8 p{
+    padding: 0px 10px;
+    color: rgb(196, 142, 44);
+    text-indent: 50px;
+}
+#zad8 #menu2 a:link,#zad8 #menu2 a:visited{
+    text-decoration: none;
+    color: white;
+    display: block;
+    line-height: 55px;
+    padding: 0px 20px;
+}
+#menu2 #home a:link, #menu2 #home a:visited{
+    text-decoration: none;
+    color:orange;
+    display: block;
+    line-height: 55px;
+    padding: 0px 20px;
+    background-color: white;
+}
+#zad8 #menu2 a:hover{
+    text-decoration: none;
+    color:orange;
+    display: block;
+    line-height: 55px;
+    padding: 0px 20px;
+    background-color: white;
+}
+#zad8  a:link.orange,#zad8  a:visited.orange{
+    color:rgb(196, 142, 44);
+    font-weight: bold;
+}
+#zad8  a:hover.orange{
+    color:black;
+    font-weight: bold;
+}
+#menu3 a:link,#menu3 a:visited{
+    color:rgb(156, 122, 58);
+    text-decoration: none;
+    font-size: smaller;
+}
+#menu3 a:hover{
+    color:black;
+font-size: smaller;
+}
+
+
+
+
